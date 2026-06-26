@@ -1,5 +1,5 @@
 **Background information**\
-LINTUL-2 docs.zip (4.59 MB)
+[LINTUL-2 docs](https://github.com/model-library-pps/LINTUL2_archive/tree/main/Lintul%202%20Text-Q%26A)
 
 **Tutorials**\
-Lintul-2-exercises.zip (102.35 KB)
+[Lintul-2-exercises](https://github.com/model-library-pps/LINTUL2_archive/tree/main/Lintul%202%20Text-Q%26A)
